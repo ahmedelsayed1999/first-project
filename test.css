@@ -1,0 +1,15 @@
+p {
+  font-size: 18px;
+  color: black;
+}
+hr {
+  border: none;
+  height: 2px;
+  background-color: black;
+}
+html {
+  background-color: white;
+}
+div {
+  text-align: center;
+}
